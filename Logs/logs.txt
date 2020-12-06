@@ -1,0 +1,1003 @@
+###-> STARTED in 27-11-2020 08:41 <-###
+
+[+] Create new PROFILE: 1@1:1
+[+] Create new PROFILE: 2@2:2
+[+] Create new PROFILE: 3@3:3
+[+] Create new PROFILE: 4@4:4
+[+] Create new PROFILE: 5@5:5
+[+] Create new PROFILE: 6@6:6
+[+] Create new PROFILE: 7@7:7
+[+] Create new PROFILE: 8@8:8
+[+] Create new PROFILE: 9@9:9
+[+] Create new PROFILE: 0@0:0
+[+] Delete PROFILE: 7@8:8
+[+] Choose SELECTED_NAME: 3
+[+] Delete PROFILE: 6@8:8
+[+] Choose SELECTED_NAME: 5
+[+] Delete PROFILE: 3@4:4
+[+] Choose SELECTED_NAME: 
+[+] Delete PROFILE: 5@8:8
+[+] Choose SELECTED_NAME: 9
+Exite menu_profile
+
+###-> STOPED in 27-11-2020 08:43 <-###
+
+
+###-> STARTED in 28-11-2020 19:18 <-###
+
+[+] Choose SELECTED_NAME: 4
+[+] Create new PROFILE: semix@192.168.0.1:9001
+[+] Choose SELECTED_NAME: 
+[+] Delete PROFILE: 4@8:8
+Exite menu_profile
+
+###-> STOPED in 28-11-2020 19:28 <-###
+
+
+###-> STARTED in 28-11-2020 19:33 <-###
+
+[+] Choose SELECTED_NAME: 4
+[+] Choose SELECTED_NAME: 
+
+###-> STOPED in 28-11-2020 19:33 <-###
+
+
+###-> STARTED in 28-11-2020 19:34 <-###
+
+[+] Choose SELECTED_NAME: 4
+[+] Choose SELECTED_NAME: 
+
+###-> STOPED in 28-11-2020 19:35 <-###
+
+
+###-> STARTED in 28-11-2020 19:38 <-###
+
+[+] Choose SELECTED_NAME: 2
+[+] Choose SELECTED_NAME: 
+[+] Delete PROFILE: 2@2:2
+[+] Delete PROFILE: 1@1:1
+[+] Choose SELECTED_NAME: 8
+[+] Choose SELECTED_NAME: 
+[+] Delete PROFILE: 8@8:8
+Exite menu_profile
+
+###-> STOPED in 28-11-2020 19:47 <-###
+
+
+###-> STARTED in 28-11-2020 20:13 <-###
+
+
+###-> STOPED in 28-11-2020 20:13 <-###
+
+
+###-> STARTED in 28-11-2020 20:16 <-###
+
+
+###-> STOPED in 28-11-2020 20:16 <-###
+
+
+###-> STARTED in 28-11-2020 20:17 <-###
+
+Exite menu_profile
+
+###-> STOPED in 28-11-2020 20:17 <-###
+
+
+###-> STARTED in 28-11-2020 20:18 <-###
+
+Exite menu_profile
+
+###-> STOPED in 28-11-2020 21:27 <-###
+
+
+###-> STARTED in 28-11-2020 21:27 <-###
+
+[+] Create new PROFILE: йцу@йцу:йцу
+[+] Create new PROFILE: asd@asd:asd
+[+] Create new PROFILE: we@fgew:gw
+[+] Choose SELECTED_NAME: er
+[+] Choose SELECTED_NAME: 
+
+###-> STOPED in 02-12-2020 18:10 <-###
+
+
+###-> STARTED in 02-12-2020 18:46 <-###
+
+Exite menu_profile
+
+###-> STOPED in 02-12-2020 18:47 <-###
+
+
+###-> STARTED in 02-12-2020 18:48 <-###
+
+
+###-> STOPED in 02-12-2020 18:48 <-###
+
+
+###-> STARTED in 02-12-2020 18:48 <-###
+
+
+###-> STOPED in 02-12-2020 18:48 <-###
+
+
+###-> STARTED in 02-12-2020 18:50 <-###
+
+Exite menu_profile
+
+###-> STOPED in 02-12-2020 18:51 <-###
+
+
+###-> STARTED in 02-12-2020 18:51 <-###
+
+
+###-> STOPED in 02-12-2020 18:51 <-###
+
+
+###-> STARTED in 02-12-2020 18:51 <-###
+
+Exite menu_profile
+
+###-> STOPED in 02-12-2020 18:51 <-###
+
+
+###-> STARTED in 02-12-2020 18:52 <-###
+
+Exite menu_profile
+
+###-> STOPED in 02-12-2020 19:28 <-###
+
+
+###-> STARTED in 02-12-2020 19:28 <-###
+
+
+###-> STOPED in 02-12-2020 19:28 <-###
+
+
+###-> STARTED in 02-12-2020 19:31 <-###
+
+
+###-> STOPED in 02-12-2020 19:31 <-###
+
+
+###-> STARTED in 02-12-2020 19:32 <-###
+
+Exite menu_profile
+
+###-> STOPED in 02-12-2020 19:39 <-###
+
+
+###-> STARTED in 02-12-2020 19:39 <-###
+
+[-] Client didn't start!
+Exite menu_profile
+
+###-> STOPED in 02-12-2020 19:40 <-###
+
+
+###-> STARTED in 02-12-2020 19:40 <-###
+
+[-] Client didn't start!
+Exite menu_profile
+
+###-> STOPED in 02-12-2020 19:42 <-###
+
+
+###-> STARTED in 02-12-2020 19:46 <-###
+
+[-] Client didn't start!
+Exite menu_profile
+
+###-> STOPED in 02-12-2020 19:46 <-###
+
+
+###-> STARTED in 02-12-2020 19:47 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)!
+Exite menu_profile
+
+###-> STOPED in 02-12-2020 19:47 <-###
+
+
+###-> STARTED in 02-12-2020 19:54 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 02-12-2020 19:54 <-###
+
+
+###-> STARTED in 02-12-2020 22:21 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 02-12-2020 22:44 <-###
+
+
+###-> STARTED in 02-12-2020 22:44 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 02-12-2020 22:44 <-###
+
+
+###-> STARTED in 02-12-2020 22:45 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Delete PROFILE: 9@9:9
+[+] Delete PROFILE: 0@0:0
+[+] Delete PROFILE: semix@192.168.0.1:9001
+[+] Choose SELECTED_NAME: 
+
+###-> STOPED in 02-12-2020 22:45 <-###
+
+
+###-> STARTED in 02-12-2020 22:49 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Delete PROFILE: йцу@йцу:йцу
+[+] Delete PROFILE: asd@asd:asd
+[+] Delete PROFILE: we@fgew:gw
+[+] Create new PROFILE: semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 02-12-2020 22:51 <-###
+
+
+###-> STARTED in 02-12-2020 22:53 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 02-12-2020 22:53 <-###
+
+
+###-> STARTED in 02-12-2020 22:56 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+
+###-> STOPED in 02-12-2020 22:56 <-###
+
+
+###-> STARTED in 02-12-2020 22:58 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+
+###-> STOPED in 02-12-2020 22:58 <-###
+
+
+###-> STARTED in 02-12-2020 23:00 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+
+###-> STOPED in 02-12-2020 23:00 <-###
+
+
+###-> STARTED in 02-12-2020 23:00 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 02-12-2020 23:04 <-###
+
+
+###-> STARTED in 02-12-2020 23:19 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+
+###-> STOPED in 02-12-2020 23:19 <-###
+
+
+###-> STARTED in 02-12-2020 23:19 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+
+###-> STOPED in 02-12-2020 23:19 <-###
+
+
+###-> STARTED in 02-12-2020 23:19 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[-] Error! Message (hello) to semix@192.168.0.15:9001 not sent!
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 02-12-2020 23:21 <-###
+
+
+###-> STARTED in 02-12-2020 23:21 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+
+###-> STOPED in 02-12-2020 23:21 <-###
+
+
+###-> STARTED in 02-12-2020 23:22 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 00:44 <-###
+
+
+###-> STARTED in 03-12-2020 01:13 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 01:15 <-###
+
+
+###-> STARTED in 03-12-2020 01:15 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+
+###-> STOPED in 03-12-2020 01:15 <-###
+
+
+###-> STARTED in 03-12-2020 01:24 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+
+###-> STOPED in 03-12-2020 01:24 <-###
+
+
+###-> STARTED in 03-12-2020 01:26 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+
+###-> STOPED in 03-12-2020 01:26 <-###
+
+
+###-> STARTED in 03-12-2020 01:26 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 01:29 <-###
+
+
+###-> STARTED in 03-12-2020 01:29 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+
+###-> STOPED in 03-12-2020 01:29 <-###
+
+
+###-> STARTED in 03-12-2020 01:29 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 01:30 <-###
+
+
+###-> STARTED in 03-12-2020 01:30 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 01:31 <-###
+
+
+###-> STARTED in 03-12-2020 01:31 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 19:34 <-###
+
+
+###-> STARTED in 03-12-2020 19:34 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 19:51 <-###
+
+
+###-> STARTED in 03-12-2020 19:51 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 19:51 <-###
+
+
+###-> STARTED in 03-12-2020 19:52 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 19:53 <-###
+
+
+###-> STARTED in 03-12-2020 19:53 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Delete PROFILE: semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 19:59 <-###
+
+
+###-> STARTED in 03-12-2020 19:59 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+
+###-> STOPED in 03-12-2020 19:59 <-###
+
+
+###-> STARTED in 03-12-2020 20:08 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+
+###-> STOPED in 03-12-2020 20:09 <-###
+
+
+###-> STARTED in 03-12-2020 20:10 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Client stoped!
+
+###-> STOPED in 03-12-2020 20:11 <-###
+
+
+###-> STARTED in 03-12-2020 20:11 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:13 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Create new PROFILE: semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:14 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+###-> STOPED in 03-12-2020 20:19 <-###
+
+
+###-> STARTED in 03-12-2020 20:19 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Create new PROFILE: qwerty@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:24 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+Ping stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:28 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:29 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:29 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:42 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:43 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:44 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:46 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Listen started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:47 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:51 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:52 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:52 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:53 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:53 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Listen started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 20:59 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Received message (ª72£6ÌcÝe7c107d7ab223ffd9f140a7e2d2d Encrypted_Key) from semix@192.168.0.15:9001
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 21:01 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 21:04 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 21:07 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 21:09 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Listen started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 21:13 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 21:16 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 21:18 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Ping started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
+
+
+###-> STOPED in ?-?-? ?:? <-###
+
+
+
+###-> STARTED in 03-12-2020 21:21 <-###
+
+[+] Client started in 192.168.0.15 (95.72.23.16)
+Listen started
+Ping started
+[+] Message (hello) to semix@192.168.0.15:9001 successfully sent
+[+] Message (hello) to qwerty@192.168.0.15:9001 successfully sent
+Exite menu_profile
+Client stoped!
